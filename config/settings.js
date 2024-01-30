@@ -46,12 +46,12 @@ module.exports = {
     key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'Hyder',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: ["Jawad Haider"],
+    number: ["923118284388"]
   },
   daily_limit: {
     free: 25,
@@ -59,8 +59,8 @@ module.exports = {
   },
   watermark: {
     sticker: {
-      package_name: 'Created by',
-      author_name: 'Your Name'
+      package_name: 'Jawad',
+      author_name: 'Jawad'
     }
   },
   react: {
